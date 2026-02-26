@@ -1,13 +1,3 @@
-Excellent. We’ll build this properly from the ground up.
-
-You already know basic HTML — that’s a strong advantage. Web scraping is essentially:
-
-> **Downloading HTML → Understanding its structure → Extracting specific data from it**
-
-We will go step-by-step. Only one topic at a time.
-
----
-
 # Topic 1: What Web Scraping Actually Is (Fundamentals)
 
 Before writing any code, you must understand what is *really* happening.
